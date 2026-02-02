@@ -18,4 +18,5 @@ The task performed in this assignment is the implementation of a File Handling U
 
 #OUTPUT OF THE TASK
 
+<img width="1496" height="678" alt="Image" src="https://github.com/user-attachments/assets/444ea63e-c34d-4452-937a-1d23248ef7bf" />
 
